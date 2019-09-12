@@ -1,0 +1,6 @@
+---
+title: "Landing Page"
+output:
+  html_document:
+    df_print: paged
+---
